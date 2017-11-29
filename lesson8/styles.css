@@ -1,0 +1,45 @@
+.card {
+  width: 350px;
+  border: 2px solid black;
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/28/18/37/the-1865639_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  font-weight: bold;
+  text-align: center;
+  background: #fff;
+}
+
+.info {
+  border: 1px solid black;
+  width: 300px;
+  padding: 0 auto;
+  margin: 10px 20px;
+  background: #fff;
+}
+
+.fact {
+  font-style: italic;
+}
+
+.image {
+  margin-left: 25px;
+  margin-right: 25px;
+  width: 300px;
+}
+
+.list {
+  list-style: none;
+  padding: 0 20px;
+}
+
+.label {
+  font-weight: bold;
+  text-align: center;
+}
+
+.text {
+  padding: 0 20px;
+}
