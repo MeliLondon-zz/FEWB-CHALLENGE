@@ -1,7 +1,7 @@
 .card {
   width: 350px;
   border: 2px solid black;
-  background-image: url("https://cdn.pixabay.com/photo/2016/11/28/18/37/the-1865639_1280.jpg");
+  background-image: url("img/jungle.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
