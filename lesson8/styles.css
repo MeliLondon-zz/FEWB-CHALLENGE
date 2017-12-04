@@ -14,6 +14,7 @@ h3 {
   background-image: url("img/jungle.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  box-shadow: 5px 5px 10px forestgreen;
 }
 
 .title {
