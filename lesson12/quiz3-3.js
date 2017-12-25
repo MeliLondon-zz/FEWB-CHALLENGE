@@ -31,7 +31,5 @@ if (musicians <= 0) {
 } else if ( musicians === 4 ) {
     console.log("quartet");
 } else if ( musicians >= 4 ) {
-    console.log("this is a much larger group");
-} else {
-    console.log ("there are no musicians");
+    console.log("this is a large group");
 }
