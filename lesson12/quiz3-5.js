@@ -1,7 +1,5 @@
 /* Directions:
-Using the flowchart below, write the code to represent checking your balance at the ATM. The yellow diamonds represent conditional statements and the blue rectangles with rounded corners represent what should be printed to the console.
-
-![jsquizflowchart3-5](https://user-images.githubusercontent.com/23058636/34406663-3522c894-ebb2-11e7-9af2-27887a7a791e.JPG)
+Using the flowchart attached, write the code to represent checking your balance at the ATM. The yellow diamonds represent conditional statements and the blue rectangles with rounded corners represent what should be printed to the console.
 
 Use the following variables in your solution:
 
