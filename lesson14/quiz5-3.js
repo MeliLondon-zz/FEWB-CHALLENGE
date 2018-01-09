@@ -37,7 +37,7 @@ function makeLine(length) {
 
 function buildTriangle(max) {
     var triangle ="";
-    for (var i = 1; i < max; i++) {
+    for (var i = 1; i <= max; i++) {
         triangle += makeLine(i);
     }
     return triangle;
