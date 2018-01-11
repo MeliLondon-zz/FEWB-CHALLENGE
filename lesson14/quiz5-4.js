@@ -10,6 +10,6 @@ var laugh = function (number) {
        laughMessage += "ha";
     }
     return laughMessage + "!";
-}
+};
 
 console.log(laugh(10));
