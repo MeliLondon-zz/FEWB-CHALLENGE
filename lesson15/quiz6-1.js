@@ -3,6 +3,4 @@ Create an array called udaciFamily and add "Julia", "James", and your name to th
 
 var udaciFamily = ["Julia","James","Melissa"];
 
-console.log(udaciFamily[0]);
-console.log(udaciFamily[1]);
-console.log(udaciFamily[2]);
+console.log(udaciFamily);
