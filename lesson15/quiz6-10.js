@@ -1,4 +1,5 @@
-/* Directions:
+/* 
+Directions:
 Use a nested for loop to take the numbers array below and replace all of the values that are divisible by 2 (even numbers) with the string "even" and all other numbers with the string "odd".
 
 var numbers = [
@@ -17,7 +18,8 @@ var numbers = [
 - The `numbers` variable is an array of arrays.
 - Use a nested `for` loop to cycle through `numbers`.
 - Convert each even number to the string "even"
-- Convert each odd number to the string "odd" */
+- Convert each odd number to the string "odd" 
+*/
 
 var numbers = [
     [243, 12, 23, 12, 45, 45, 78, 66, 223, 3],
